@@ -1,7 +1,7 @@
 print("TABEL KEBENARAN KONJUNGSI, DISJUNGSI DAN -P OR Q")
 print("________________________________________________")
 
-print("P\t|Q\t|Q AND P\t|P OR |-P OR Q")
+print("P\t|Q\t|P AND Q\t|P OR Q\t|-P OR Q")
 print("________________________________________________")
 
 for P in [True, False]:
