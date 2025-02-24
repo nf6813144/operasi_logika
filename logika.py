@@ -9,6 +9,6 @@ for P in [True, False]:
         Konjungsi = P and Q
         Disjungsi = P or Q
         Negasi = not -P or Q
-        print(f"{P}\t{Q}\t{Konjungsi}, {P}\t{Q}\t{Disjungsi},{-P}\t{Q}\t")
+        print(f"{P}\t{Q}\t{Konjungsi}\t{Disjungsi},\t{Negasi}")
 
 print("__________________________________________________")
